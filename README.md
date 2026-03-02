@@ -32,7 +32,7 @@
 ## 📥 Download
 
 Pre-built Windows executables are available on the [**Releases**](../../releases) page.  
-Download the latest `.exe`, place `icon.png` in the same folder, and run it — no Python installation required.
+Download the latest `.exe`, run it — no Python installation required.
 
 ---
 
